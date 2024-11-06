@@ -1,0 +1,47 @@
+* [33mcommit df8fe3143507273ec1c5a75ef8839bbf22cbc017[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[31m|[m Date:   Mon Nov 4 18:58:31 2024 +0100
+[31m|[m 
+[31m|[m     ultimo commit
+[31m|[m   
+[31m|[m * [33mcommit 291ac68cec7ac44007be98ae629c3c3c28f10c7b[m[33m ([m[1;32mlogin[m[33m)[m
+[31m|[m [32m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[31m|[m [32m|[m Date:   Sun Nov 3 20:29:56 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Git 3 login
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 8e835d4aebadc998ecb2dca1c0316e44272cb5ee[m
+[31m|[m [32m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[31m|[m [32m|[m Date:   Sun Nov 3 20:17:58 2024 +0100
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Login
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit f73ae0ff51f29f01427327a06ab87f40faac8438[m
+[31m|[m[31m/[m  Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[31m|[m   Date:   Sun Nov 3 20:09:11 2024 +0100
+[31m|[m   
+[31m|[m       Este es mi quinto commit
+[31m|[m 
+* [33mcommit 0efd3420747ac688ef9c2d6ff017a8f714f0b9ad[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+[32m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[32m|[m Date:   Sun Nov 3 19:21:44 2024 +0100
+[32m|[m 
+[32m|[m     Se añade el .gitignore
+[32m|[m 
+* [33mcommit 4ccc3af46b2f0f0a52352d6927273374c17fd147[m
+[32m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[32m|[m Date:   Sun Nov 3 19:10:35 2024 +0100
+[32m|[m 
+[32m|[m     He añadido un comentario en la tercera linea
+[32m|[m 
+* [33mcommit 15f409070f9a377f1b090e2d10e00aa928c200ee[m
+[32m|[m Author: S0Yu <luisrodriguezcamas99@gmail.com>
+[32m|[m Date:   Sun Nov 3 18:07:19 2024 +0100
+[32m|[m 
+[32m|[m     Este es mi segundo commit
+[32m|[m 
+* [33mcommit cef92bc4cabd5136d1c2f1d6b48b0eb4e80250bc[m
+  Author: S0Yu <luisrodriguezcamas99@gmail.com>
+  Date:   Sun Nov 3 18:01:35 2024 +0100
+  
+      Este es mi primer commit
